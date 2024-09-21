@@ -13,6 +13,7 @@ This repository includes files, folders, and exercises related to the subject of
 - [VS-Code](https://code.visualstudio.com/)
 - [Putty](https://www.putty.org/)
 
+
 > The Introduction to Web Development course encompasses not just Web pages, but also fundamental concepts such as the command-line interface (CLI), the Internet, and Minimum Viable Products (MVPs), among others.
 
 ## Sample Code
