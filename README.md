@@ -18,7 +18,7 @@ This repository includes files, folders, and exercises related to the subject of
 ## Sample Code
 
 ```HTML
-<!-- The below code prints "Hello World" on the Web Page -->
+<!-- The following code displays "Hello World" on the web page -->
 <h1>Hello World!</h1>
 ```
 
